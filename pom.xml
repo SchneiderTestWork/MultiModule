@@ -20,9 +20,7 @@
     </properties>
 
     <modules>
-        <module>app</module>
         <module>bean</module>
-        <module>lib</module>
     </modules>
 
     <dependencies>
